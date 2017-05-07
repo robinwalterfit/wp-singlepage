@@ -1,6 +1,6 @@
 # WP-Singlepage
 
-Are you interested in a SinglePage theme for WordPress? This theme was built as a part of my [WordPress Tutorials](https://invincible-life.com/blog/tutorials/wordpress/).
+Are you interested in a SinglePage theme for WordPress? This theme was built as a part of my [WordPress Tutorials][wordpress-tutorials-url].
 
 [![License][license-image]][license-url]
 
@@ -16,6 +16,8 @@ Are you interested in a SinglePage theme for WordPress? This theme was built as 
 Download or clone this repository and upload it to your WordPress theme directory.
 
 ---
+
+[wordpress-tutorials-url]: https://invincible-life.com/blog/tutorials/wordpress/
 
 [license-url]: https://github.com/robinwalterfit/wp-singlepage/blob/master/LICENSE
 [license-image]: https://img.shields.io/github/license/robinwalterfit/wp-singlepage.svg?style=flat
