@@ -6,10 +6,10 @@ Are you interested in a SinglePage theme for WordPress? This theme was built as 
 
 ## Features
 
-* [![Bootstrap]][bootstrap-url] [![License][bootstrap-license-image]][bootstrap-license-url] Copyright (c) 2011-2016 Twitter, Inc.
+* [Bootstrap][bootstrap-url] [![License][bootstrap-license-image]][bootstrap-license-url] Copyright (c) 2011-2016 Twitter, Inc.
 * * customized -> config.json in Bootstrap directory
-* * /css/bootstrap.css changed on line: 1087 `font-size: 16px;`
-* [![Font-Awesome]][fontawesome-url] [![License]][fontawesome-license-url]
+* * bootstrap/css/bootstrap.css changed on line: 1087 `font-size: 16px;`
+* [Font-Awesome][fontawesome-url] [License][fontawesome-license-url]
 
 ## Installing
 
